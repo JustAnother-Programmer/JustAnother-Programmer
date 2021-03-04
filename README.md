@@ -6,16 +6,21 @@
 
 > Hi! I am Rory, a programmer from the United Kingdom, I work primarily with game engines such as Unreal Engine 4 and Unity!
 
-I know the following languages:
-- C#
+My programming:
+Key:
+- 🟢 Fluent
+- 🟠 Some experience
+- 🔴 Learning
+
+- C# 🟢
   - I use C# for development within Unity.
-- C++
+- C++ 🟢
   - I use C++ for development within Unreal Engine and also some desktop applications.
-- JavaScript
+- JavaScript 🔴
   - Node.js for back-end development.
-- Java
+- Java 🟠
   - Primarily for Minecraft modding and plugin development.
-- Lua
+- Lua 🟠
   - I only know a bit of Lua but use it for developing FiveM resources.
 
 # Stats
