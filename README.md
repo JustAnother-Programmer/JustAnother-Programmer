@@ -15,6 +15,8 @@ I know the following languages:
   - Node.js for back-end development.
 - Java
   - Primarily for Minecraft modding and plugin development.
+- Lua
+  - I only know a bit of Lua but use it for developing FiveM resources.
 
 # Stats
 
