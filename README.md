@@ -4,7 +4,7 @@
 
 # Information
 
-> Hi! I am a programmer from the United Kingdom, I work primarily with game engines such as Unreal Engine 4 and Unity!
+> Hi! I am Rory, a programmer from the United Kingdom, I work primarily with game engines such as Unreal Engine 4 and Unity!
 
 I know the following languages:
 - C#
