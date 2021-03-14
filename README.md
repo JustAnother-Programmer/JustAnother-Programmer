@@ -23,12 +23,12 @@ Key:
   - I use C++ for development within Unreal Engine and also some desktop applications.
 - Python 🟢
   - I manily use python for smaller applications and also some AI
-- JavaScript 🔴
-  - Node.js for back-end development.
 - Java 🟠
   - Primarily for Minecraft modding and plugin development.
 - Lua 🟠
   - I only know a bit of Lua but use it for developing FiveM resources.
+- JavaScript 🔴
+  - Node.js for back-end development.
 
 # Stats
 
