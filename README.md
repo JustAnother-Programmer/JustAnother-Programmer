@@ -11,19 +11,20 @@ My programming:
 
 
 Key:
-- 🟢 Fluent
+- 🟣 Fluent
+- 🟢 Experienced
 - 🟠 Some experience
 - 🔴 Learning
 
 
 
-- C# 🟢
+- C# 🟣
   - I use C# for development within Unity.
 - C++ 🟢
   - I use C++ for development within Unreal Engine and also some desktop applications.
-- Python 🟢
+- Python 🟣
   - I manily use python for smaller applications and also some AI
-- JavaScript 🟠
+- JavaScript 🟢
   - Node.js for back-end development.
 - Java 🟠
   - Primarily for Minecraft modding and plugin development.
