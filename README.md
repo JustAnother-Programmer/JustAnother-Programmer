@@ -20,10 +20,10 @@ Key:
 
 - C# 🟣
   - I use C# for development within Unity.
-- C++ 🟢
-  - I use C++ for development within Unreal Engine and also some desktop applications.
 - Python 🟣
   - I manily use python for smaller applications and also some AI
+- C++ 🟢
+  - I use C++ for development within Unreal Engine and also some desktop applications.
 - JavaScript 🟢
   - Node.js for back-end development.
 - Java 🟠
