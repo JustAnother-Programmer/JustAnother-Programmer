@@ -21,7 +21,7 @@ Key:
 - C# 🟣
   - I use C# for development within Unity.
 - Python 🟣
-  - I manily use python for smaller applications and also some AI
+  - I manily use python for smaller applications and also some AI.
 - C++ 🟢
   - I use C++ for development within Unreal Engine and also some desktop applications.
 - JavaScript 🟢
@@ -30,6 +30,8 @@ Key:
   - Primarily for Minecraft modding and plugin development.
 - Lua 🟠
   - I only know a bit of Lua but use it for developing FiveM resources.
+- Assembly 🟠
+  - I use it for my OS that I am making for fun.
 
 # Stats
 
