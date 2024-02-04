@@ -38,7 +38,6 @@
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=JustAnother-Programmer&theme=tokyonight&hide_border=true" />
 </p>
 
-## :octocat: Github stats
 <br />
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=JustAnother-Programmer&theme=tokyonight&show_icons=true" />
