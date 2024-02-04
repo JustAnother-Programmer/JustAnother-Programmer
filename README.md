@@ -21,7 +21,6 @@
   <a href="https://github.com/JustAnother-Programmer?tab=followers">
     <img src="https://img.shields.io/github/followers/JustAnother-Programmer?style=for-the-badge&color=7ce38b&labelColor=363e53"/>
   </a>
-    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.countapi.xyz/hit/JustAnother-Programmer&query=$.value&style=for-the-badge&label=Visitors&cacheSeconds=0&color=a2d2fb&labelColor=363e53"/>
 </p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
